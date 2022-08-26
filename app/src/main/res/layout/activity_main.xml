@@ -9,7 +9,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:scaleType="centerCrop"
-        app:srcCompat="@drawable/Birthday_Cake_Image" />
+        app:srcCompat="@drawable/birthday_cake" />
 
     <TextView
         android:layout_width="wrap_content"
@@ -18,7 +18,7 @@
         android:textColor="@android:color/white"
         android:textSize="36sp"
         android:layout_margin="5sp"
-        android:textStyle="sans-serif-light" />
+        android:fontFamily="sans-serif-light" />
 
     <TextView
         android:layout_width="wrap_content"
@@ -29,6 +29,8 @@
         android:textColor="@android:color/white"
         android:textSize="36sp"
         android:layout_margin="5sp"
-        android:textStyle="sans-serif-light" />
+        android:fontFamily="sans-serif-light" />
+
+
 
 </RelativeLayout>
